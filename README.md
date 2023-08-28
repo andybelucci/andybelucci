@@ -1,7 +1,7 @@
 ### Olá sou Anderson Belucci 👋
 
 
-- 🧑‍🎓 Estudo Analise e Desenvlvimento de Sistemas - Anhembi Morumbi
+- 🧑‍🎓 Formado em Analise e Desenvlvimento de Sistemas - Anhembi Morumbi
 - 🧑‍💻 Faço curso Full Stack com Springboot e Angular em Java 
 
 <div align="center">
