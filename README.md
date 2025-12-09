@@ -40,7 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 align="left"
 alt="HTML"
 title="Angular"
-width="48px"
+width="40px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
 
