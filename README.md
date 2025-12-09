@@ -40,7 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 align="left"
 alt="HTML"
 title="Angular"
-width="50px"
+width="40px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
 
@@ -73,7 +73,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
 align="left"
 alt="HTML"
 title="JUnit"
-width="50px"
+width="40px"
 style="padding-right: 10px;"             
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
 
@@ -109,7 +109,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-ori
 align="left"
 alt="HTML"
 title="Git"
-width="50px"
+width="40px"
 style="padding-right: 10px;"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
@@ -118,7 +118,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-
 align="left"
 alt="HTML"
 title="GitHub"
-width="50px"
+width="40px"
 style="padding-right: 10px;"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
@@ -127,7 +127,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 align="left"
 alt="HTML"
 title="GitHub"
-width="50px"
+width="40px"
 style="padding-right: 10px;"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
           
