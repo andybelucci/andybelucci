@@ -14,7 +14,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi 
 align="left"
 alt="HTML"
 title="Java"
-width="50px"
+width="40px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
@@ -22,7 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 align="left"
 alt="HTML"
 title="Spring"
-width="50px"
+width="40px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 
@@ -31,7 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
 align="left"
 alt="HTML"
 title="JavaScrip"
-width="30px"
+width="40px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
@@ -40,7 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 align="left"
 alt="HTML"
 title="Angular"
-width="70px"
+width="50px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
 
@@ -73,7 +73,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
 align="left"
 alt="HTML"
 title="JUnit"
-width="70px"
+width="50px"
 style="padding-right: 10px;"             
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
 
@@ -91,7 +91,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices
 align="left"
 alt="HTML"
 title="Postgresql"
-width="50px"
+width="40px"
 style="padding-right: 10px;"         
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
           
@@ -100,7 +100,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 align="left"
 alt="HTML"
 title="Docker"
-width="50px"
+width="40px"
 style="padding-right: 10px;"                
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 
@@ -109,7 +109,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-ori
 align="left"
 alt="HTML"
 title="Git"
-width="60px"
+width="50px"
 style="padding-right: 10px;"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
@@ -118,7 +118,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-
 align="left"
 alt="HTML"
 title="GitHub"
-width="60px"
+width="50px"
 style="padding-right: 10px;"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
@@ -127,15 +127,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 align="left"
 alt="HTML"
 title="GitHub"
-width="60px"
+width="50px"
 style="padding-right: 10px;"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
           
           
           
-                   
-          
-
 <br></br>
 
 ---
