@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10C5C8&height=120&section=header"/>
-<a href="https://www.flaticon.com/br/icones-gratis/controlo-remoto" title="controlo remoto ícones">Controlo remoto ícones criados por Flat Icons - Flaticon</a>  Anderson Belucci
-
+<img width="50" height="50" alt="icons8-no-computador-50" src="https://github.com/user-attachments/assets/2aa2b61f-3583-4c46-abdc-83a897b60f8a" />  Anderson Belucci
 
 **`Desenvolvedor FullStack`**
 
@@ -14,7 +13,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi 
 <img 
 align="left"
 alt="HTML"
-title="HTML"
+title="Java"
 width="50px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -22,7 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 <img 
 align="left"
 alt="HTML"
-title="HTML"
+title="Spring"
 width="50px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
@@ -31,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
 <img 
 align="left"
 alt="HTML"
-title="HTML"
+title="JavaScrip"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -40,7 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 <img 
 align="left"
 alt="HTML"
-title="HTML"
+title="Angular"
 width="70px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
@@ -48,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-o
 <img 
 align="left"
 alt="HTML"
-title="HTML"
+title="React"
 width="40px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
@@ -56,7 +55,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 <img
 align="left"
 alt="HTML"
-title="HTML"
+title="Vue"
 width="40px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
@@ -64,10 +63,78 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-origi
 <img 
 align="left"
 alt="HTML"
-title="HTML"
+title="Intelij"
 width="40px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
+
+<img 
+align="left"
+alt="HTML"
+title="JUnit"
+width="70px"
+style="padding-right: 10px;"             
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
+
+
+<img 
+align="left"
+alt="HTML"
+title="AWS"
+width="40px"
+style="padding-right: 10px;"  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+
+<img 
+align="left"
+alt="HTML"
+title="Postgresql"
+width="50px"
+style="padding-right: 10px;"         
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+          
+          
+<img 
+align="left"
+alt="HTML"
+title="Docker"
+width="50px"
+style="padding-right: 10px;"                
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+
+
+<img 
+align="left"
+alt="HTML"
+title="Git"
+width="60px"
+style="padding-right: 10px;"          
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+
+
+<img 
+align="left"
+alt="HTML"
+title="GitHub"
+width="60px"
+style="padding-right: 10px;"          
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+
+
+<img 
+align="left"
+alt="HTML"
+title="GitHub"
+width="60px"
+style="padding-right: 10px;"          
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
+          
+          
+          
+                   
+          
 
 <br></br>
 
