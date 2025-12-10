@@ -63,14 +63,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-origi
 <img 
 align="left"
 alt="HTML"
-title="Intelij"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-
-<img 
-align="left"
-alt="HTML"
 title="AWS"
 width="40px"
 style="padding-right: 10px;"  
