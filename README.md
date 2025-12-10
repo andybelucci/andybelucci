@@ -68,16 +68,6 @@ width="40px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 
-
-<img 
-align="left"
-alt="HTML"
-title="JUnit"
-width="40px"
-style="padding-right: 10px;"             
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
-
-
 <img 
 align="left"
 alt="HTML"
@@ -86,7 +76,6 @@ width="40px"
 style="padding-right: 10px;"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-
 <img 
 align="left"
 alt="HTML"
@@ -94,8 +83,7 @@ title="Postgresql"
 width="40px"
 style="padding-right: 10px;"         
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-          
-          
+                   
 <img 
 align="left"
 alt="HTML"
@@ -103,7 +91,6 @@ title="Docker"
 width="40px"
 style="padding-right: 10px;"                
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-
 
 <img 
 align="left"
@@ -113,7 +100,6 @@ width="40px"
 style="padding-right: 10px;"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
-
 <img 
 align="left"
 alt="HTML"
@@ -121,7 +107,6 @@ title="GitHub"
 width="40px"
 style="padding-right: 10px;"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-
 
 <img 
 align="left"
@@ -131,8 +116,7 @@ width="40px"
 style="padding-right: 10px;"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
           
-          
-          
+                   
 <br></br>
 
 ---
